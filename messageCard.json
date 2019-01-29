@@ -1,0 +1,51 @@
+﻿{
+  "@type": "MessageCard",
+  "@context": "http://schema.org/extensions",
+  "summary": "New question posted on StackOverflow from chinna",
+  "themeColor": "f48024",
+  "sections": [
+    {
+      "startGroup": true,
+      "title": "**How to upload video file through FormData to Azure Datalake?**",
+      "activityImage": "https://www.gravatar.com/avatar/86bbd3747a46eb63a8ee61b742f0c081?s=128&d=identicon&r=PG&f=1",
+      "activityTitle": "Posted by [**chinna**](https://stackoverflow.com/users/6627954/chinna)",
+      "activitySubtitle": "Created: 08/24/2017 4:50:45 PM",
+      "facts": [
+        {
+          "name": "Tags:",
+          "value": "[asp.net](https://stackoverflow.com/questions/tagged/asp.net), [azure](https://stackoverflow.com/questions/tagged/azure), [angular2-forms](https://stackoverflow.com/questions/tagged/angular2-forms), [azure-data-lake](https://stackoverflow.com/questions/tagged/azure-data-lake)"
+        },
+        {
+          "name": "Views:",
+          "value": "9"
+        },
+        {
+          "name": "Up Vote:",
+          "value": "0"
+        },
+        {
+          "name": "Down Vote:",
+          "value": "0"
+        },
+        {
+          "name": "Favorited:",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "potentialAction": [
+        {
+          "@type": "OpenUri",
+          "name": "View on StackOverflow.com",
+          "targets": [
+            {
+              "os": "default",
+              "uri": "https://stackoverflow.com/questions/45867088/how-to-upload-video-file-through-formdata-to-azure-datalake"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
